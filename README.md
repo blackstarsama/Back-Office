@@ -1,16 +1,21 @@
 # Back-Office
-Back-office pour la gestion des publications d'un site web.
 
-⚠️ Code source mis à jour⚠️
+Back-office for the management of the publications of a website.
 
-Back Office avec CRUD
-Ajouter un post, supprimer, Lister les posts et Modifier les posts.
+⚠️ Source code updated⚠️
 
-N'hésitez pas à fork et star ;)
+## Back Office With CRUD
 
-Installation
-Importez backoffice.sql dans votre base de données
-Modifiez les identifiants users à votre guise pour la connexion.
+Add Post, Delete, List Posts and Edit Posts.
 
-A venir 
-Page création utilisateur
+Feel free to fork and star ;)
+
+## Installation Instruction
+
+Import backoffice.sql into your database
+Modify the user identifiers as you wish for the connection.
+
+## coming soon 
+
+User creation page
+CSS improvement
