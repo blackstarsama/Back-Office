@@ -1,6 +1,10 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<title>Login to backoffice</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Backoffice</title>
 </head>
 <body>
 <h2><font color="green">Vous &ecirc;tes bien connect&eacute;!</font></h2>
